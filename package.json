@@ -1,7 +1,7 @@
 {
   "name": "cat-cafe",
   "version": "0.1.0",
-  "homepage": "https://github.com/SergeySvetlov/cat-cafe",
+  "homepage": "https://sergeysvetlov.github.io/cat-cafe",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
